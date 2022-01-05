@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/v1/static/css/main.8d6177d9.chunk.css",
-    "main.js": "/v1/static/js/main.19b54b19.chunk.js",
-    "main.js.map": "/v1/static/js/main.19b54b19.chunk.js.map",
-    "runtime-main.js": "/v1/static/js/runtime-main.ed13a72c.js",
-    "runtime-main.js.map": "/v1/static/js/runtime-main.ed13a72c.js.map",
+    "main.js": "/v1/static/js/main.83e154c7.chunk.js",
+    "main.js.map": "/v1/static/js/main.83e154c7.chunk.js.map",
+    "runtime-main.js": "/v1/static/js/runtime-main.5d057fea.js",
+    "runtime-main.js.map": "/v1/static/js/runtime-main.5d057fea.js.map",
     "static/css/2.2cc0d865.chunk.css": "/v1/static/css/2.2cc0d865.chunk.css",
-    "static/js/2.49767819.chunk.js": "/v1/static/js/2.49767819.chunk.js",
-    "static/js/2.49767819.chunk.js.map": "/v1/static/js/2.49767819.chunk.js.map",
-    "static/js/3.b490318c.chunk.js": "/v1/static/js/3.b490318c.chunk.js",
-    "static/js/3.b490318c.chunk.js.map": "/v1/static/js/3.b490318c.chunk.js.map",
+    "static/js/2.2664bf0b.chunk.js": "/v1/static/js/2.2664bf0b.chunk.js",
+    "static/js/2.2664bf0b.chunk.js.map": "/v1/static/js/2.2664bf0b.chunk.js.map",
+    "static/js/3.bde3df9b.chunk.js": "/v1/static/js/3.bde3df9b.chunk.js",
+    "static/js/3.bde3df9b.chunk.js.map": "/v1/static/js/3.bde3df9b.chunk.js.map",
     "index.html": "/v1/index.html",
     "static/css/2.2cc0d865.chunk.css.map": "/v1/static/css/2.2cc0d865.chunk.css.map",
     "static/css/main.8d6177d9.chunk.css.map": "/v1/static/css/main.8d6177d9.chunk.css.map",
-    "static/js/2.49767819.chunk.js.LICENSE.txt": "/v1/static/js/2.49767819.chunk.js.LICENSE.txt",
+    "static/js/2.2664bf0b.chunk.js.LICENSE.txt": "/v1/static/js/2.2664bf0b.chunk.js.LICENSE.txt",
     "static/media/bcg-img-attr.9c7e6a76.jpg": "/v1/static/media/bcg-img-attr.9c7e6a76.jpg",
     "static/media/cover-about.0cd32ad4.jpg": "/v1/static/media/cover-about.0cd32ad4.jpg",
+    "static/media/cover-login.e9a545ee.jpg": "/v1/static/media/cover-login.e9a545ee.jpg",
     "static/media/icon1-linguistic.png": "/v1/static/media/icon1-linguistic.05dec459.png",
     "static/media/icon2-logical.png": "/v1/static/media/icon2-logical.bc3e3539.png",
     "static/media/icon3-spatial.png": "/v1/static/media/icon3-spatial.7348684d.png",
@@ -27,10 +28,10 @@
     "static/media/splashscreen-icon.c7c6d0ed.gif": "/v1/static/media/splashscreen-icon.c7c6d0ed.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed13a72c.js",
+    "static/js/runtime-main.5d057fea.js",
     "static/css/2.2cc0d865.chunk.css",
-    "static/js/2.49767819.chunk.js",
+    "static/js/2.2664bf0b.chunk.js",
     "static/css/main.8d6177d9.chunk.css",
-    "static/js/main.19b54b19.chunk.js"
+    "static/js/main.83e154c7.chunk.js"
   ]
 }
